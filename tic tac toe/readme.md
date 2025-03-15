@@ -12,8 +12,12 @@ A simple **Tic-Tac-Toe game** built using **C++**, where the player competes aga
 
 ## 🚀 How to Run the Game  
 
-### 🔹 Step 1: Compile the Code  
-Use the following command to compile the game:  
-
 ```sh
+# Step 1: Compile the Code
 g++ tic_tac_toe.cpp -o tic_tac_toe
+
+# Step 2: Run the Game on Windows
+tic_tac_toe.exe
+
+# Step 3: Run the Game on Linux/macOS
+./tic_tac_toe
